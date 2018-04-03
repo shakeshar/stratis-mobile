@@ -23,12 +23,13 @@ Built using Visual Studio 2017 with Xamarin components
 
 ### Installing
 
+
 A step by step series of examples that tell you have to get a development env running
 
 Say what the step will be
 
 ```
-Give the example
+
 ```
 
 And repeat
@@ -41,7 +42,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-Don't write bugs, don't need tests
+I don't write bugs, tests is obsolete
 
 ## Built With
 
