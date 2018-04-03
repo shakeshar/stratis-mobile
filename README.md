@@ -24,12 +24,16 @@ Built using Visual Studio 2017 with Xamarin components
 ### Installing
 
 
-A step by step series of examples that tell you have to get a development env running
 
-Say what the step will be
 
 ```
-
+Login using the default credentials 
+Press meny - Send
+Receiver: "Testnet account"
+Amount: 0.001
+Fee: 0.001
+Message: "Test message"
+Send!
 ```
 
 And repeat
@@ -68,3 +72,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * https://www.nuget.org/packages/NStratis.API.Client
+
+
